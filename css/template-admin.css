@@ -1,0 +1,43 @@
+#sidebar-menu ul li a i { /*color: #000000 !important;*/ font-size:14px !important; }
+
+#sidebar-menu ul li a { color: #000000 !important; font-size: 14px; !important; }
+
+    .vertical-menu {
+
+        background-color: #fff !important;
+
+        bottom: 0 !important;
+
+        left: 0 !important;
+
+        margin-top: 0 !important;
+
+		top: 90px !important;
+
+        transition: all 0.2s ease-in-out 0s !important;
+
+        z-index: 1001 !important;
+
+        border-top-right-radius: 20px !important;
+
+        box-shadow: 0 0 13px 0 rgb(82 63 105 / 5%) !important;
+
+        overflow-y: hidden !important;
+
+    }
+
+body[data-topbar=colored] .header-item, body[data-topbar=dark] .header-item {color: #000000 !important;}
+
+#page-topbar { height: unset !important;}
+
+.waves-effect{position:relative;cursor:pointer;display:inline-block;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
+
+#sidebar-menu ul li a:hover { color: #FFFFFF !important;font-size: 15px !important;}
+
+.footer { position: inherit !important; }
+
+
+
+.jqte{ margin: 5px 0 !important;}
+
+.jqte_tool.jqte_tool_1 .jqte_tool_label { height: 20px !important; }
