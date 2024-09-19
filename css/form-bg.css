@@ -6135,8 +6135,8 @@ body {
 
 
 .card {
-    background: unset !important;
-	background-color: rgba(168, 197, 255, 0.25);
+    background: #487FFF !important;
+    background-color: rgba(168, 197, 255, 0.25);
     backdrop-filter: saturate(125%) blur(100px);
 }
 
