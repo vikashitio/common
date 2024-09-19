@@ -248,6 +248,7 @@ body, html {height: 100%;}
 .metismenu li {width: unset !important; }
 
 .mm-active {
+    background-color: #487fff !important;
     color: #FFFFFF !important;
 }
 .mm-active span { font-weight: bolder !important; }
