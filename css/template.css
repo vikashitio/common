@@ -247,6 +247,11 @@ body, html {height: 100%;}
 .list-item:hover{background-color:#023759 !important;}
 .metismenu li {width: unset !important; }
 
+.mm-active {
+    color: #FFFFFF !important;
+}
+.mm-active span { font-weight: bolder !important; }
+
 @media (max-width: 520px){
 .navbar-brand-box {
     width: 100px !important;
