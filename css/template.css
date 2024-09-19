@@ -244,7 +244,7 @@ body, html {height: 100%;}
 #sidebar-menu ul li a i {color: black !important;}
 .list-item-selected{background-color:#ada9a9 !important; color:#FFFFFF;}
 .list-item-selected a{color:#3366FF !important; }
-.list-item:hover{background-color:#ccc !important;}
+.list-item:hover{background-color:#023759 !important;}
 .metismenu li {width: unset !important; }
 
 @media (max-width: 520px){
